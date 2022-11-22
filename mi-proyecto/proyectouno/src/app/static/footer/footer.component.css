@@ -1,0 +1,19 @@
+.pie-pagina{
+    width: 100%;
+    background: linear-gradient(to right, #d5cdd2, #d57ca6);
+}
+.pie-pagina .grupo-1{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 0px;
+}
+.pie-pagina .grupo-2{
+    background: linear-gradient(to right, #d57ca6, #d5cdd2);
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff;
+}
+.pie-pagina .grupo-2 small{
+    font-size: 15px;
+}

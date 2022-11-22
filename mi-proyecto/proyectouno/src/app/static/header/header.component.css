@@ -1,0 +1,32 @@
+*{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    list-style: none;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header{
+    height: 100px;
+    background: linear-gradient(to right, #1fdae7, #1926dd);
+    padding: 10px;
+
+}
+header ul li{
+    display: inline-block;
+    justify-content: flex-end;
+    line-height: 40px;
+    padding-left: 28px;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+header ul{
+    float: right;
+}
+
+img{
+    position: absolute;
+    top: 29px;
+    left: 20px;
+}
